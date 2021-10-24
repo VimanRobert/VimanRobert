@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VimanRobert;
-- 👀 I’m interested in mobile aplications development;
+- 👀 I’m interested in mobile app development;
 - 🌱 I’m currently learning OOP, JAVA and C#
 - 💞️ I’m looking to collaborate on software enterprises (internship);
 - 📫 How to reach me:
